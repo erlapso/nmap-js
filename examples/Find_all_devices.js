@@ -1,4 +1,4 @@
-var nmap = require('nmap-js').nmap();
+var nmap = require('./nmap').nmap();
 
 // Find all network devices 
 nmap.findActiveHosts(function(data, net){
