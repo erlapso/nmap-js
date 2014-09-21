@@ -6,7 +6,7 @@
     "url": "http://www.x-firm.com"
   },
   "description": "Node.js module for fetching information about all devices on the network",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/x-firm/nmap-js.git"
